@@ -16,7 +16,7 @@ ingress:
     email: ""
     enabled: false
     production: false
-kaniko: true
+kaniko: false
 secretStorage: local
 storage:
   logs:
